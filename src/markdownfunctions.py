@@ -1,5 +1,5 @@
 from textnode import TextNode, TextType, text_node_to_html_node
-from src.htmlnode import ParentNode
+from htmlnode import ParentNode
 import re
 from enum import Enum
 
